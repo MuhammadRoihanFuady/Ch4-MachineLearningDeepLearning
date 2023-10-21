@@ -1,5 +1,6 @@
 ﻿# Ch4-MachineLearningDeepLearning
- **TASK 1**
+ ### **TASK 1**
+ 
 I have completed several steps in data preparation and modeling using the SC_HW1_bank_data.csv dataset. Here is a detailed explanation of the tasks I performed:
 Certainly, here are the changes to the sentences:
 
@@ -41,7 +42,8 @@ Certainly, here are the changes to the sentences:
 
 Based on the evaluation results, I concluded that Model 3 (Decision Tree) is the best model because it has the highest accuracy (0.8628) compared to Model 1 (KNN) and Model 2 (Random Forest). I also explained that the Decision Tree is a relatively simple and interpretable model, making it suitable for explaining predictions to users who may not have in-depth statistical knowledge.
 
-**TASK 2**
+### **TASK 2**
+
 In the process of preparing the data and conducting clustering analysis on the 'Cluster S1.csv' dataset, I undertook a series of essential steps. These steps involved importing libraries, reading and cleaning the data, performing data visualization, searching for the optimal number of clusters using the K-Means algorithm, evaluating the clusters through the silhouette score, and finally, visualizing the results to gain insights into the underlying data patterns. Here is a detailed explanation of the tasks I performed:
 
 # Preparation
@@ -67,7 +69,8 @@ The preparation phase is typically carried out to prepare data before entering t
 
 In summary, I started by importing necessary libraries, reading the dataset, and cleaning it. Then, I performed data visualization to gain insights. Following that, I explored different numbers of clusters using the K-Means algorithm and evaluated the clusters' quality using the silhouette score. Finally, I visualized the results by plotting the data points with cluster labels to help understand the underlying patterns in the data.
 
-**TASK 3**
+### **TASK 3**
+
 In this task, I worked on a series of steps related to training a neural network for image classification using the MNIST dataset. Let's break down what I did in each step:
 
 1. **Loading the MNIST Dataset:** I imported the necessary libraries for deep learning, including PyTorch, and used torchvision to load the MNIST dataset. I applied transformations to the dataset, including converting the images to tensors and normalizing them.
@@ -92,7 +95,8 @@ In this task, I worked on a series of steps related to training a neural network
 
 Overall, I have successfully trained a neural network to recognize handwritten digits in the MNIST dataset, and I assessed its performance using multiple evaluation metrics, providing a comprehensive evaluation of the model's classification capabilities.
 
-**TASK BONUS**
+### **TASK BONUS**
+
 In this bonus task, I conducted a series of experiments to compare the performance of different configurations of neural network models, loss functions, and activation functions. Let's break down what I did in each part:
 
 **1. Compare 3 Different Configurations for Model Depth:**
